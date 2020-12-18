@@ -1,0 +1,29 @@
+.picImg { 
+ height: 200px;
+ width: 300px;
+ margin-top: 20px;
+}
+
+header {
+    font-size: 50px; 
+    color: purple; 
+    border: red;
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.photoDiv{
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+body { 
+    background-color: #0f75c2;
+background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+
